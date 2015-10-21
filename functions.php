@@ -78,6 +78,7 @@ add_theme_support( 'post-thumbnails' );
 set_post_thumbnail_size( 60, 60, true ); // Normal post thumbnails
 add_image_size( 'post-thumbnail-square', 128, 128, true ); // thumbnail 128 x 128
 add_image_size( 'post-thumbnail-rect', 155, 102, true ); // thumbnail 155 x 102
+add_image_size( 'single-post', 624, 200, true ); // thumbnail 624 x 200
 
 
 // hide Wordpress upgrade message

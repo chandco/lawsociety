@@ -366,10 +366,7 @@ ul.room-info-boxes li, .wp-tag-cloud li {
 	margin-right:12px;
 }
 .single-blog-img {
-	width:128px; height:auto;
-	float:left;
-	overflow:hidden;
-	margin:0 15px 10px 0;
+	margin-bottom:15px;
 }
 /* promo boxes */
 .promo-box {
@@ -689,3 +686,4 @@ html[xmlns] .slides {display: block;}
   .flex-direction-nav .flex-prev {opacity: 1; left: 0;}
   .flex-direction-nav .flex-next {opacity: 1; right: 0;}
 }
+

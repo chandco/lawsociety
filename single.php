@@ -24,7 +24,7 @@ Template Name: Single Page
   
   <div class="single-blog-entry">
    
-   <?php echo get_the_post_thumbnail($post->ID, 'post-thumbnail-square',  array('class' => 'single-blog-img')); ?>
+   <?php echo get_the_post_thumbnail($post->ID, 'single-post',  array('class' => 'single-blog-img')); ?>
    
    <?php the_content(); ?>
    
