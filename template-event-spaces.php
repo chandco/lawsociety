@@ -54,7 +54,7 @@ Template Name: Event Spaces
 
     <li class="wed"><a href="/weddings/"><p>Weddings</p></a></li>
 
-    <li class="xmas"><a href="/eventschristmas/"><p>Christmas</p></a></li>
+    <li class="xmas"><a href="/christmas/"><p>Christmas</p></a></li>
 
     <li class="ddr"><a href="/day-delegate-rates/"><p>Day Delegate</p></a></li>
 
